@@ -1,0 +1,24 @@
+.bg-light-grey {
+  background-color: #d8d8d8;
+}
+
+.hero-section {
+  padding: 32px;
+  display: flex;
+  align-items: center;
+}
+
+.nav-link {
+  color: #333 !important;
+  font-weight: 500;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+}
+
+.sidebar-item {
+  border-bottom: 1px solid #ddd;
+  padding: 16px 0;
+}
